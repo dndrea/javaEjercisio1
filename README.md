@@ -1,32 +1,7 @@
-# javaEjercisio1
-package com.Javatema1;
+Crea un proyecto de Java desde 0
 
-public class Main {
-    public static void main(String[] args)  {
+Dentro del proyecto tenéis que crear un paquete. En el paquete tendréis que crear una clase.
 
-        // Tipos de datos vistos y de estos los más comunes
-        byte variable1 = 5; // número entero corto
-        short variable2 = 22; // número entero corto un poco más largo que byte
-        int entero = 200; // número entero (Común)
-        long largo = 10008; // número entero largo (Común)
-        float decimal = 1.2f; // número decimal corto
-        double decimal1 = 100.8d; // número decimal largo (Común)
-        boolean mayor = true; // Booleano (Común)
-        boolean menor = false; // Booleano (Común) repetido para ver los 2 estados.
-        char caracter = 'x'; // Carácter simple entre comillas simples
-        String nombreCompleto = "Bryant Isaac"; // Cadena de texto entre comillas dobles (Común)
+Dentro de la clase tenéis que crear el método main e imprimir todos los datos que se han visto en las sesiones.
 
-        // Imprimimos en consola los tipos de datos arriba definidos.
-        System.out.println(variable1);
-        System.out.println(variable2);
-        System.out.println(entero);
-        System.out.println(largo);
-        System.out.println(decimal);
-        System.out.println(decimal1);
-        System.out.println(mayor);
-        System.out.println(menor);
-        System.out.println(caracter);
-        System.out.println(nombreCompleto);
-        System.out.println("fin");
-    }
-}
+Recordatorio: Los tipos de datos más comunes son int, long, double, boolean, String.
